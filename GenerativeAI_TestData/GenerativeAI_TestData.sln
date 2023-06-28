@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerativeAI_TestData", "GenerativeAI_TestData.csproj", "{7B26154A-2995-487D-97EF-E4DDCAA619BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B26154A-2995-487D-97EF-E4DDCAA619BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B26154A-2995-487D-97EF-E4DDCAA619BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B26154A-2995-487D-97EF-E4DDCAA619BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B26154A-2995-487D-97EF-E4DDCAA619BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B298CC79-0B3D-4630-B2B2-CFECCAAD29AF}
+	EndGlobalSection
+EndGlobal
